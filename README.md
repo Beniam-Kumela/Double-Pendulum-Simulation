@@ -19,4 +19,6 @@ Mass 1 = 100g, Mass 2 = 10g, Angle of rod 1 = pi/3, Angle of rod 2 = pi/4
 
 Mass 1 = 100g, Mass 2 = 100g, Angle of rod 1 = pi/4, Angle of rod 2 = pi/8
 
+![ezgif-2-a7fafe1ab8](https://user-images.githubusercontent.com/106757076/186556764-d8d31016-c44a-4511-9696-2cc85500bbde.gif)
+
 You can download the python script and play around with the variable rod lengths, angles, masses, and even gravity to get some cool simulations. 
